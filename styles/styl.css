@@ -1,3 +1,6 @@
-/*
-CSS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
-*/
+#graf1, #graf2, #graf3 {
+	min-width: 310px;
+	height: 400px;
+	margin: 0 auto
+}
+

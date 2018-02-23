@@ -1,41 +1,27 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
-authors: ["Jan Cibulka", "Petr Kočí"]
+title: "Velká multimediální reportáž o bezdomovcích"
+perex: "Tady bude perex"
+authors: ["Kreativní hub"]
 published: "21. dubna 2018"
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='#'>ČTK</a>"
+coverimg: 
+coverimg_note: ""
 styles: []
-libraries: [] #jquery, jquery-csv, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+libraries: [highcharts]
+options: [noheader, nopic]
 ---
-<left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</left>
 
-Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve „špičce“ okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin sollicitudin sagittis. In dui magna, ornare et ipsum et, pretium pulvinar arcu. Fusce diam libero, facilisis id ligula quis, fringilla finibus magna. Etiam volutpat tempus felis, in dapibus ipsum suscipit eget. Cras volutpat ultricies purus vitae ornare. Nunc auctor, enim id consectetur tempor, tellus ligula mattis tellus, vitae commodo mauris purus vitae risus. Aenean convallis, velit sit amet aliquet ultrices, leo mauris dignissim quam, pretium ornare ante mauris ac elit. In hac habitasse platea dictumst. Mauris ligula dolor, condimentum sed semper tincidunt, dapibus eu risus. Nam malesuada eros nec lectus blandit, quis egestas mi luctus. Etiam convallis urna convallis, consequat turpis et, pellentesque dolor. Proin ut auctor arcu. Phasellus sed maximus libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque a malesuada nulla, vitae gravida ante.
 
-Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 osob na hektar.
+<wide><div id="graf1"></div></wide>
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+Morbi vehicula tincidunt ultrices. Sed eu lorem ut lectus ullamcorper sodales. Nam sagittis, nunc nec imperdiet pretium, mi nisi mattis ante, at pellentesque velit risus sit amet enim. Praesent congue velit dapibus ligula volutpat, sed molestie sapien porttitor. Praesent eu felis lobortis, tempor erat sit amet, condimentum diam. Duis malesuada ac ligula et faucibus. Nulla facilisi. Ut ultrices sed est ac hendrerit.
 
-<wide>_Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře._</wide>
+<wide><div id="graf2"></div></wide>
 
+Nulla finibus dignissim metus eu blandit. Nullam eleifend arcu metus, vitae condimentum ligula auctor id. Aenean nulla nunc, dictum non pellentesque id, imperdiet et arcu. Quisque posuere, magna eget rutrum tincidunt, tellus tortor aliquet metus, ac blandit neque lacus ac nunc. Mauris sit amet mi nisl. Suspendisse gravida ex sed dui ultrices commodo. Cras eu turpis at lacus lobortis accumsan. Vivamus finibus imperdiet bibendum. Ut eget vehicula dolor. Sed convallis aliquam metus sit amet euismod. Integer ultricies semper bibendum. Suspendisse sed posuere ante. Donec ac egestas neque. In ornare sollicitudin quam quis feugiat.
 
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
+<wide><div id="graf3"></div></wide>
 
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
+Nulla efficitur sem quis sapien varius interdum. Morbi facilisis, erat et vulputate facilisis, eros lacus hendrerit purus, ac maximus sapien purus ut quam. Maecenas in tellus sit amet ex lacinia condimentum et id magna. Nulla ac mollis quam. Aenean feugiat quam eu ex tincidunt, vel porttitor nulla facilisis. Donec eleifend ornare lectus non ultricies. Morbi sed efficitur turpis, et efficitur mauris. Integer tincidunt orci at tincidunt blandit. Sed vestibulum justo id est mattis, vitae accumsan purus mattis. Sed at dictum tortor. In fermentum bibendum tellus, ut egestas nisl congue porttitor. Morbi nec nisl vel magna tempus iaculis.
 
-Mobilní operátor má [zákonnou povinnost](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
+Curabitur erat orci, consequat vitae lectus eu, rhoncus cursus diam. In hac habitasse platea dictumst. Vivamus eget sapien urna. Curabitur a eleifend turpis. Donec interdum facilisis volutpat. Donec lobortis tincidunt enim ac suscipit. Praesent faucibus turpis vestibulum, elementum augue nec, pellentesque felis. Vestibulum feugiat vulputate odio, non congue leo. Sed pulvinar, tortor vel venenatis fermentum, felis ante venenatis tellus, non sollicitudin enim lectus id elit. Donec id neque a quam fringilla ornare. Phasellus et venenatis magna. 
 
-Operátoři ale obdobné informace mohou anonymizovat (tedy zbavit identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
