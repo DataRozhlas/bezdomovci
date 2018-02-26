@@ -22,6 +22,3 @@ Nulla finibus dignissim metus eu blandit. Nullam eleifend arcu metus, vitae cond
 <wide><div id="graf3"></div></wide>
 
 Nulla efficitur sem quis sapien varius interdum. Morbi facilisis, erat et vulputate facilisis, eros lacus hendrerit purus, ac maximus sapien purus ut quam. Maecenas in tellus sit amet ex lacinia condimentum et id magna. Nulla ac mollis quam. Aenean feugiat quam eu ex tincidunt, vel porttitor nulla facilisis. Donec eleifend ornare lectus non ultricies. Morbi sed efficitur turpis, et efficitur mauris. Integer tincidunt orci at tincidunt blandit. Sed vestibulum justo id est mattis, vitae accumsan purus mattis. Sed at dictum tortor. In fermentum bibendum tellus, ut egestas nisl congue porttitor. Morbi nec nisl vel magna tempus iaculis.
-
-Curabitur erat orci, consequat vitae lectus eu, rhoncus cursus diam. In hac habitasse platea dictumst. Vivamus eget sapien urna. Curabitur a eleifend turpis. Donec interdum facilisis volutpat. Donec lobortis tincidunt enim ac suscipit. Praesent faucibus turpis vestibulum, elementum augue nec, pellentesque felis. Vestibulum feugiat vulputate odio, non congue leo. Sed pulvinar, tortor vel venenatis fermentum, felis ante venenatis tellus, non sollicitudin enim lectus id elit. Donec id neque a quam fringilla ornare. Phasellus et venenatis magna. 
-
