@@ -6,7 +6,7 @@ coverimg:
 coverimg_note: ""
 styles: []
 libraries: [highcharts]
-options: [noheader, nopic]
+options: []
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin sollicitudin sagittis. In dui magna, ornare et ipsum et, pretium pulvinar arcu. Fusce diam libero, facilisis id ligula quis, fringilla finibus magna. Etiam volutpat tempus felis, in dapibus ipsum suscipit eget. Cras volutpat ultricies purus vitae ornare. Nunc auctor, enim id consectetur tempor, tellus ligula mattis tellus, vitae commodo mauris purus vitae risus. Aenean convallis, velit sit amet aliquet ultrices, leo mauris dignissim quam, pretium ornare ante mauris ac elit. In hac habitasse platea dictumst. Mauris ligula dolor, condimentum sed semper tincidunt, dapibus eu risus. Nam malesuada eros nec lectus blandit, quis egestas mi luctus. Etiam convallis urna convallis, consequat turpis et, pellentesque dolor. Proin ut auctor arcu. Phasellus sed maximus libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque a malesuada nulla, vitae gravida ante.
