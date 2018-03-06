@@ -1,24 +1,27 @@
-title: "Velká multimediální reportáž o bezdomovcích"
-perex: "Tady bude perex"
+title: "Domov bez domova: Tři roky bez elektřiny, vody a toalety. Jak se žije v domku na parkovišti"
+perex: "Mokré psisko leží před omšelou betonovou kostkou na parkovišti u pražského autobusového nádraží Zličín. Nepohne se, když prší, sněží nebo je deset pod nulou. Nemá ani jméno, protože Ivana a Petr, kteří si z bývalé vrátnice udělali domov, plyšákům jména nedávají."
 authors: ["Kreativní hub"]
 published: "21. dubna 2018"
 coverimg: 
 coverimg_note: ""
 styles: []
-libraries: [highcharts]
+libraries: []
 options: []
 ---
+<left><b>Domov bez domova</b><br>Reportáž je prvním z pěti dílů audiovizuálního seriálu o lidech, kteří přišli o stálý domov a žijí v provizorních podmínkách. Součástí každého dílu je interaktivní prohlídka prostředí, ve kterém tito lidé žijí.</left>Zato malého černého Bena, který švihá ocasem sem a tam a neustále se lísá, berou jako svoji rodinu. „Spí s námi i v posteli,“ směje se Ivana (53) a má tím na mysli devadesát centimetrů širokou matraci, kam se musejí vejít všichni tři. Navíc se k ní musejí protáhnout úzkou chodbičkou v nepřehledném množství veteše všeho druhu.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin sollicitudin sagittis. In dui magna, ornare et ipsum et, pretium pulvinar arcu. Fusce diam libero, facilisis id ligula quis, fringilla finibus magna. Etiam volutpat tempus felis, in dapibus ipsum suscipit eget. Cras volutpat ultricies purus vitae ornare. Nunc auctor, enim id consectetur tempor, tellus ligula mattis tellus, vitae commodo mauris purus vitae risus. Aenean convallis, velit sit amet aliquet ultrices, leo mauris dignissim quam, pretium ornare ante mauris ac elit. In hac habitasse platea dictumst. Mauris ligula dolor, condimentum sed semper tincidunt, dapibus eu risus. Nam malesuada eros nec lectus blandit, quis egestas mi luctus. Etiam convallis urna convallis, consequat turpis et, pellentesque dolor. Proin ut auctor arcu. Phasellus sed maximus libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque a malesuada nulla, vitae gravida ante.
+„Nesbíráme všechno, jen to co se hodí,“ dodává Petr (54), vousáč v zelené bundě vojenského střihu. Oba dva svorně tvrdí, že se za bezdomovce nepovažují. V objektu o velikosti dva krát tři metry, bez elektřiny, vody a toalety bydlí už třetím rokem.
 
-<wide><div id="graf1"></div></wide>
+„Já už to takhle táhnu nějakých třicet let,“ říká Petr, který střídá brigády a nebere žádnou podporu. Na Úřadu práce evidovaný není a prý si platí i zdravotní pojištění. Bývalou vrátnici má pronajatou zdarma od majitele, kterému uklízí okolní pozemky. Na cestách sebere dříví do kamen. „Teplo máme, ještě musím ucpat díry kolem komína.“ Měl by si pospíšit, kouřovod je vytažený příliš velkou dírou ve zdi a kolem něj táhne dovnitř studený vítr. 
 
-Morbi vehicula tincidunt ultrices. Sed eu lorem ut lectus ullamcorper sodales. Nam sagittis, nunc nec imperdiet pretium, mi nisi mattis ante, at pellentesque velit risus sit amet enim. Praesent congue velit dapibus ligula volutpat, sed molestie sapien porttitor. Praesent eu felis lobortis, tempor erat sit amet, condimentum diam. Duis malesuada ac ligula et faucibus. Nulla facilisi. Ut ultrices sed est ac hendrerit.
+Než se Petr nastěhoval na parkoviště, bydlel s Ivanou na Zličíně v zahradním domku. Tenkrát se taky vzali. „Tohle živobytí se dá vydržet, chce to ale pevné nervy, v zimě teplo a občas sehnat něco do úst,“ říká padesátník přesvědčivě.
 
-<wide><div id="graf2"></div></wide>
+<img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/photo_09-02-2018_10__180306-184934_zlo.jpg?itok=B5yqbzKY" width="100%">
 
-Nulla finibus dignissim metus eu blandit. Nullam eleifend arcu metus, vitae condimentum ligula auctor id. Aenean nulla nunc, dictum non pellentesque id, imperdiet et arcu. Quisque posuere, magna eget rutrum tincidunt, tellus tortor aliquet metus, ac blandit neque lacus ac nunc. Mauris sit amet mi nisl. Suspendisse gravida ex sed dui ultrices commodo. Cras eu turpis at lacus lobortis accumsan. Vivamus finibus imperdiet bibendum. Ut eget vehicula dolor. Sed convallis aliquam metus sit amet euismod. Integer ultricies semper bibendum. Suspendisse sed posuere ante. Donec ac egestas neque. In ornare sollicitudin quam quis feugiat.
+Ivana pracuje s větší pravidelností několikrát do týdne v centru Prahy. V Metráži, nízkoprahové dílně pro ženy v obtížných sociálních situacích, vyrábí šperky a někdy je i prodává na stánku. „Vydělám si tam tak dvacet pět tisíc korun ročně.“ Může se tam vysprchovat, stejně jako v některých dalších denních centrech. Dohromady prý dají s Petrem tak sedm, osm tisíc měsíčně a s tím vystačí.
 
-<wide><div id="graf3"></div></wide>
+„Tady se dá vařit jenom v létě, v zimě se nevejdu, nemám na čem. Chodíme na jídlo do Metropole. A na kafe do Ikei,“ popisuje Ivana detaily jejich každodenního života. Na toaletu to mají ze svého domku do obchodního centra nějakých pět set metrů.
 
-Nulla efficitur sem quis sapien varius interdum. Morbi facilisis, erat et vulputate facilisis, eros lacus hendrerit purus, ac maximus sapien purus ut quam. Maecenas in tellus sit amet ex lacinia condimentum et id magna. Nulla ac mollis quam. Aenean feugiat quam eu ex tincidunt, vel porttitor nulla facilisis. Donec eleifend ornare lectus non ultricies. Morbi sed efficitur turpis, et efficitur mauris. Integer tincidunt orci at tincidunt blandit. Sed vestibulum justo id est mattis, vitae accumsan purus mattis. Sed at dictum tortor. In fermentum bibendum tellus, ut egestas nisl congue porttitor. Morbi nec nisl vel magna tempus iaculis.
+Vrátnice na parkovišti má prý i jiné výhody. Domek je za plotem jako celé parkoviště a jeho obyvatelé nemusejí míst strach z krádeže nebo třeba napadení, se kterým má podle statistik zkušenost skoro polovina lidí bez domova. „Nás jen častěji kontroluje policie, když třeba vezu nějaký sběr. Jinak to je v pohodě,“ pokyvuje hlavou Petr. 
+
+Do domku se dokonce vejde i návštěva. „Jednou nás tu bylo sedm,“ vzpomíná Ivana. Pochází ze šesti dětí, matka se o ně nestarala a tak se přes dětské domovy dostala do adoptivní rodiny. Vyučila se, pracovala v továrně, slušně si vydělávala, ale odešla od adoptivních rodičů, postupně porodila tři děti se dvěma partnery a skončila u cirkusu Kopecký. Tam dnes žijí děti včetně nejmladší třináctileté dcery, do výchovy si je vzali majitelé cirkusu. „Jsou z nich artisté a ošetřovatelé zvířat,“ říká Ivana, které své děti vídá, když vystupují v Praze nebo když cirkus v hlavní městě přes zimu zakotví. 
