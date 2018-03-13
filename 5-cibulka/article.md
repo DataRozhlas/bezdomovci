@@ -1,5 +1,5 @@
 title: "Žije na ulici, přitom je členem expertní komise na ministerstvu. Úředníkem se stát nechce"
-perex: "Bezdomovec Emil si zahrál si v divadle s Oldřichem Kaiserem, předpovídal počasí v České televizi a teď radí ministerským úředníkům. Na ulici zatím zůstává, i když dočasně bydlení se rýsuje. Našel ho přes Facebook."
+perex: "Bezdomovec Emil si zahrál si v divadle s Oldřichem Kaiserem, předpovídal počasí v České televizi a teď radí ministerským úředníkům. Na ulici zatím zůstává, i když dočasně bydlení se rýsuje. Našel ho přes facebook."
 published: "12. března 2018"
 coverimg: ""
 coverimg_note: ""
@@ -10,9 +10,9 @@ options: []
 
 <left><b>Domov bez domova</b><br>Reportáž je posledním z pěti dílů audiovizuálního seriálu o lidech, kteří nemají tradiční domov a žijí v podmínkách, které pro bydlení nejsou původně určené. Součástí každého dílu je interaktivní prohlídka prostředí, ve kterém tito lidé žijí.</left>
 
-Šedesátník Emil se už pár dnů neholil, vyprat by taky potřeboval a ani vlhké počasí mu nedělá dobře na klouby. Od té doby, co ho srazil na ulici automobil a rozlámal mu koleno, chodí těžce a jen o holi. Přespává ve squatu a každým dnem by se měl přestěhovat do pronajatého bytu. „Našli mi ho lidi z žižkovské Kliniky přes Facebook. Budu platit pět tisíc se vším všudy,“ říká spokojeně invalidní důchodce.
+Šedesátník Emil se už pár dnů neholil, vyprat by taky potřeboval a ani vlhké počasí mu nedělá dobře na klouby. Od té doby, co ho srazil na ulici automobil a rozlámal mu koleno, chodí těžce a jen o holi. Přespává ve squatu a každým dnem by se měl přestěhovat do pronajatého bytu. „Našli mi ho lidi z žižkovské Kliniky přes facebook. Budu platit pět tisíc se vším všudy,“ říká spokojeně invalidní důchodce.
 
-Na ulici se Emil dostal krátce po čtyřicítce poté, co se rozvedl. Myslel si, že rozvod spraví jeho problémy, ale dopadlo to jinak. „Místo lepší jen horší.“ Šel bydlet na ubytovnu, utápěl se v depresích, které léčil půl roku, a následně přišel o práci v metru, kde dělal dozorčího stanice a provozního technika. „Dálkově jsem si udělal dopravní průmyslovku a mám třísemestrální kurs mezinárodní přepravy.“ 
+Na ulici se Emil dostal krátce po čtyřicítce poté, co se rozvedl. Myslel si, že rozvod spraví jeho problémy, ale dopadlo to jinak. „Místo lepší jen horší.“ Šel bydlet na ubytovnu, utápěl se v depresích, které léčil půl roku, a následně přišel o práci v metru, kde dělal dozorčího stanice a provozního technika. „Dálkově jsem si udělal dopravní průmyslovku a mám třísemestrální kurz mezinárodní přepravy.“ 
 
 <div class="b-inline b-inline--right">
   <div class="b-inline__wrap">
@@ -85,6 +85,6 @@ Lidé bez domova se často stávají spíše pasivními účastníky celého dě
 
 Asociaci lidí pro domov tvoří lidé se zkušeností bytové nouze. Svou angažovaností členové a členky usilují o to dát vědět širší veřejnosti o svých zájmech a potřebách spojených s bydlením. Hájí je i před politickou reprezentací. I Platforma pro sociální bydlení považuje osoby se zkušeností s bytovou nouzí za rovnocenné partnery a experty, kteří se mohou účastnit jednání o systémovém řešení a ukončování bezdomovectví v ČR.
 
-Při řešení bezdomovectví a potažmo chudoby bychom se neměli uchylovat k schématickému rozdělování na příjemce, kteří jsou bezmocní, a na dárce, kteří zastávají roli spasitelů. Při takovém dělení totiž můžeme snadno nabýt dojmu, že dárci můžou něco změnit jen díky své mocenské pozici, případně majetku. 
+Při řešení bezdomovectví a potažmo chudoby bychom se neměli uchylovat k schematickému rozdělování na příjemce, kteří jsou bezmocní, a na dárce, kteří zastávají roli spasitelů. Při takovém dělení totiž můžeme snadno nabýt dojmu, že dárci můžou něco změnit jen díky své mocenské pozici, případně majetku. 
 
 Finanční podpora je nezbytná, ale pokud zůstaneme jen u ní, vytváří větší prostor pro mocenskou nerovnost. Důležité proto je, abychom podporovali i aktivní pozice žen a mužů bez domova. To znamená podporovat sociálně marginalizované lidi v jejich snaze a odvaze hájit své práva a potřeby - nebýt jen dárci, ale i jejich obhájci. 
