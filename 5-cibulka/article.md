@@ -10,7 +10,7 @@ options: []
 
 <left><b>Domov bez domova</b><br>Reportáž je posledním z pěti dílů audiovizuálního seriálu o lidech, kteří nemají tradiční domov a žijí v podmínkách, které pro bydlení nejsou původně určené. Součástí každého dílu je interaktivní prohlídka prostředí, ve kterém tito lidé žijí.</left>
 
-Šedesátník Emil se už pár dnů neholil, vyprat by taky potřeboval a ani vlhké počasí mu nedělá dobře na klouby. Od té doby, co ho srazil na ulici automobil a rozlámal mu koleno, chodí těžce a jen o holi. Přespává ve squatu a každým dnem by se měl přestěhovat do pronajatého bytu. „Našli mi ho lidi z žižkovské Kliniky přes facebook. Budu platit pět tisíc se vším všudy,“ říká spokojeně invalidní důchodce.
+Šedesátník Emil od doby, co ho srazil na ulici automobil a rozlámal mu koleno, chodí těžce a jen o holi. Přespává ve squatu a každým dnem by se měl přestěhovat do pronajatého bytu. „Našli mi ho lidi z žižkovské Kliniky přes facebook. Budu platit pět tisíc se vším všudy,“ říká spokojeně invalidní důchodce.
 
 Na ulici se Emil dostal krátce po čtyřicítce poté, co se rozvedl. Myslel si, že rozvod spraví jeho problémy, ale dopadlo to jinak. „Místo lepší jen horší.“ Šel bydlet na ubytovnu, utápěl se v depresích, které léčil půl roku, a následně přišel o práci v metru, kde dělal dozorčího stanice a provozního technika. „Dálkově jsem si udělal dopravní průmyslovku a mám třísemestrální kurz mezinárodní přepravy.“ 
 
@@ -77,7 +77,7 @@ Svůj velký den měl v listopadu 2013. To si pamatuje přesně, protože [stá
 
 <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/img_8726_180312-185438_zlo.jpg?itok=aXWj705c" width="100%">
 
-Vzdělaný muž bez domova zaujal i lidi sociální oblasti a časem se z něj stal expert pro věci bezdomovců, je členem Platformy pro sociální bydlení a o víkendu spoluzakládal Asociaci lidí pro domov. Tyto aktivity ho dostaly až do expertní skupiny pro ukončování a prevenci bezdomovectví při Ministerstvu práce a sociálních věcí. „Dvakrát jsem byl na konferenci o bezdomovectví v Bruselu,“ směje se Emil s nezbytnou cigaretou v ruce a rezolutně odmítá, že by se z něj mohl stát úředník. „To radši ne, už tak nemám na nic čas.“
+Vzdělaný muž bez domova zaujal i lidi sociální oblasti a časem se z něj stal expert pro věci bezdomovců, je členem Platformy pro sociální bydlení a o víkendu spoluzakládal Asociaci lidí pro domov. Tyto aktivity ho dostaly až do expertní skupiny pro ukončování a prevenci bezdomovectví při ministerstvu práce a sociálních věcí. „Dvakrát jsem byl na konferenci o bezdomovectví v Bruselu,“ směje se Emil s nezbytnou cigaretou v ruce a rezolutně odmítá, že by se z něj mohl stát úředník. „To radši ne, už tak nemám na nic čas.“
 
 <hr style="max-width:none;">
 <b>Komentář <a href="http://www.anthropictures.cz/kdo-jsme/barbora-birova/">Barbory Bírové</a>, sociální antropoložky</b><br>
