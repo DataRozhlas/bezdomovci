@@ -1,5 +1,5 @@
 title: "Žije na ulici, přitom je členem expertní komise na ministerstvu. Úředníkem se stát nechce"
-perex: "Bezdomovec Emil si zahrál v divadle s Oldřichem Kaiserem, předpovídal počasí v České televizi a teď radí ministerským úředníkům. Na ulici zatím zůstává, i když dočasně bydlení se rýsuje. Našel ho přes facebook."
+perex: "Bezdomovec Emil si zahrál v divadle s Oldřichem Kaiserem, předpovídal počasí v České televizi a teď radí ministerským úředníkům. Na ulici zatím zůstává, i když dočasné bydlení se rýsuje. Našel ho přes facebook."
 published: "12. března 2018"
 coverimg: ""
 coverimg_note: ""
@@ -77,7 +77,7 @@ Svůj velký den měl v listopadu 2013. To si pamatuje přesně, protože [stá
 
 <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/img_8726_180312-185438_zlo.jpg?itok=aXWj705c" width="100%">
 
-Vzdělaný muž bez domova zaujal i lidi sociální oblasti a časem se z něj stal expert pro věci bezdomovců, je členem Platformy pro sociální bydlení a o víkendu spoluzakládal Asociaci lidí pro domov. Tyto aktivity ho dostaly až do expertní skupiny pro ukončování a prevenci bezdomovectví při ministerstvu práce a sociálních věcí. „Dvakrát jsem byl na konferenci o bezdomovectví v Bruselu,“ směje se Emil s nezbytnou cigaretou v ruce a rezolutně odmítá, že by se z něj mohl stát úředník. „To radši ne, už tak nemám na nic čas.“
+Vzdělaný muž bez domova zaujal i lidi ze sociální oblasti a časem se z něj stal expert pro věci bezdomovců, je členem Platformy pro sociální bydlení a o víkendu spoluzakládal Asociaci lidí pro domov. Tyto aktivity ho dostaly až do expertní skupiny pro ukončování a prevenci bezdomovectví při ministerstvu práce a sociálních věcí. „Dvakrát jsem byl na konferenci o bezdomovectví v Bruselu,“ směje se Emil s nezbytnou cigaretou v ruce a rezolutně odmítá, že by se z něj mohl stát úředník. „To radši ne, už tak nemám na nic čas.“
 
 <hr style="max-width:none;">
 <b>Komentář <a href="http://www.anthropictures.cz/kdo-jsme/barbora-birova/">Barbory Bírové</a>, sociální antropoložky</b><br>
