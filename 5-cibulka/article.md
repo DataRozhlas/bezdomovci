@@ -1,5 +1,5 @@
 title: "Žije na ulici, přitom je členem expertní komise na ministerstvu. Úředníkem se stát nechce"
-perex: "Bezdomovec Emil si zahrál si v divadle s Oldřichem Kaiserem, předpovídal počasí v České televizi a teď radí ministerským úředníkům. Na ulici zatím zůstává, i když dočasně bydlení se rýsuje. Našel ho přes facebook."
+perex: "Bezdomovec Emil si zahrál v divadle s Oldřichem Kaiserem, předpovídal počasí v České televizi a teď radí ministerským úředníkům. Na ulici zatím zůstává, i když dočasně bydlení se rýsuje. Našel ho přes facebook."
 published: "12. března 2018"
 coverimg: ""
 coverimg_note: ""
